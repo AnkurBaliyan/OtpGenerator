@@ -1,2 +1,2 @@
 # OtpGenerator
-Genrate OTP using java.
+Generate OTP using java.
